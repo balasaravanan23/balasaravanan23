@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @balasaravanan23  
-- 👀 I’m interested in Data Science and Software Development  
+- 👀 I’m interested in Data Science and Machine Learning  
 - 🌱 I’m currently a graduate at Vels University  
 - 💞️ I’m looking to collaborate on ML projects  
 - 📫 Reach me on LinkedIn: linkedin.com/in/balasaravanan041
